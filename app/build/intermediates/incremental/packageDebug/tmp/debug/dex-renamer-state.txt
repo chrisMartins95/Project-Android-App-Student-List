@@ -1,0 +1,4 @@
+#Sun Apr 30 00:28:03 BRT 2023
+base.0=C\:\\Users\\chris\\Desktop\\backup\\Trila do Dev\\Alura curso\\Android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

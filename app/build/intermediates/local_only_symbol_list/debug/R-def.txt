@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_action_novo_aluno
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id activity_formulario_aluno_Telefone
+id activity_formulario_aluno_botao_salvar
+id activity_formulario_aluno_email
+id activity_formulario_aluno_nome
+id activity_lista_alunos_fab_novo_aluno
+id activity_lista_alunos_listview
+id adicionar
+layout activity_formulario_aluno
+layout activity_lista_alunos
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_add
+style Theme.Agenda
+xml backup_rules
+xml data_extraction_rules
